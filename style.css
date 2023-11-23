@@ -67,4 +67,5 @@ body{
     word-break: break-all;
     color: purple;
     border-style:solid;
+    border-radius: 20px;
 }
